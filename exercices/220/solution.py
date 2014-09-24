@@ -6,7 +6,6 @@ Created on Wed Sep 24 18:37:45 2014
 """
 
 import is_prime
-import string
 d = 0
 prime= []
 for i in range(10000, 10050):
